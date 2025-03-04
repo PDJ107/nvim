@@ -1,4 +1,4 @@
-local keyMapper = require('utils.keyMapper').mapKey
+local keyMapper = require('utils.KeyMapper').mapKey
 return {
   {
     "williamboman/mason.nvim",
